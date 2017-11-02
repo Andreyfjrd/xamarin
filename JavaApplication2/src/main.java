@@ -12,7 +12,7 @@ public class main {
     public static void main(String[] args) {
         System.out.println("Hola");
         
-        //Agruegue alguna linea de prueba. 
+        //Agregue alguna linea de prueba. 
     }
     
 }
